@@ -1,0 +1,1361 @@
+{
+  "location": "WBH",
+  "saleNo": "25",
+  "center": "KOLKATA",
+  "teaSubCat": "BROKENS",
+  "batchNo": "6",
+  "batchDate": "15-06-2022",
+  "saleDate": "21-06-2022",
+  "details": [
+    {
+      "uniqueid": "4311675",
+      "hist3_eCat": [
+        "SL~24~ 341-370 "
+      ],
+      "batchSrNo": "1 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "KAKAJANHIGHGROWN",
+      "gardenGroup": "APPL",
+      "gardenRegion": "JORHAT",
+      "trus": "TT",
+      "invoice": "C416",
+      "gpdate": "23/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "30",
+      "nett": "37.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 70 0 ",
+      "lotno": "ATB0069"
+    },
+    {
+      "uniqueid": "4311678",
+      "hist3_eCat": [
+        "SL~24~ 341-370 "
+      ],
+      "batchSrNo": "2 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "KAKAJANHIGHGROWN",
+      "gardenGroup": "APPL",
+      "gardenRegion": "JORHAT",
+      "trus": "TT",
+      "invoice": "C434",
+      "gpdate": "25/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "30",
+      "nett": "37.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 70 0 ",
+      "lotno": "ATB0070"
+    },
+    {
+      "uniqueid": "4311682",
+      "hist3_eCat": [
+        "SL~24~ 341-370 "
+      ],
+      "batchSrNo": "3 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "KAKAJANHIGHGROWN",
+      "gardenGroup": "APPL",
+      "gardenRegion": "JORHAT",
+      "trus": "TT",
+      "invoice": "C444",
+      "gpdate": "25/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "30",
+      "nett": "36.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 70 0 ",
+      "lotno": "ATB0071"
+    },
+    {
+      "uniqueid": "4311683",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "4 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20684",
+      "gpdate": "26/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "31.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0101"
+    },
+    {
+      "uniqueid": "4311685",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "5 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20685",
+      "gpdate": "26/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "31.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0102"
+    },
+    {
+      "uniqueid": "4311687",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "6 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20691",
+      "gpdate": "29/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311687",
+          "platformno": "WBH/3",
+          "color": "70",
+          "taste": "70",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "3",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0103"
+    },
+    {
+      "uniqueid": "4311689",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "7 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20695",
+      "gpdate": "29/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0104"
+    },
+    {
+      "uniqueid": "4311701",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "8 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20696",
+      "gpdate": "29/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311701",
+          "platformno": "WBH/3",
+          "color": "70",
+          "taste": "70",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "3",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0105"
+    },
+    {
+      "uniqueid": "4311705",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "9 ",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20712",
+      "gpdate": "29/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0106"
+    },
+    {
+      "uniqueid": "4311715",
+      "hist2_Auc_L3S": [
+        "SL~23-UY-541 ",
+        "SL~24-UY-445-468 ",
+        "SL~24-UX-421-450 ",
+        "SL~22-UA-475 ",
+        "SL~23-UA-420-500 ",
+        "SL~24-UA-420-455 ",
+        "SL~23-A-441-501 ",
+        "SL~24-A-446 "
+      ],
+      "batchSrNo": "10",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONI",
+      "gardenGroup": "BARO",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "TT",
+      "invoice": "C20713",
+      "gpdate": "29/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0107"
+    },
+    {
+      "uniqueid": "4311718",
+      "hist2_Auc_L3S": [
+        "SL~24-A-341 "
+      ],
+      "batchSrNo": "11",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "UDAYAN",
+      "gardenGroup": "OTHR",
+      "gardenRegion": "ASSAM",
+      "trus": "TT",
+      "invoice": "C24",
+      "gpdate": "28/05",
+      "subQuality": "BP/SM",
+      "chests": "30",
+      "nett": "31.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 68 0 ",
+      "lotno": "ATB0131"
+    },
+    {
+      "uniqueid": "4311719",
+      "hist2_Auc_L3S": [
+        "SL~24-B-183 "
+      ],
+      "batchSrNo": "12",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "MOHOKUTIE",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "MORAN",
+      "trus": "NT",
+      "invoice": "C112",
+      "gpdate": "25/05",
+      "subQuality": "BP",
+      "chests": "20",
+      "nett": "22.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 72 72 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311719",
+          "platformno": "WBH/3",
+          "color": "72",
+          "taste": "72",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "3",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0159"
+    },
+    {
+      "uniqueid": "4311722",
+      "hist2_Auc_L3S": [
+        "SL~24-B-183 "
+      ],
+      "batchSrNo": "13",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "MOHOKUTIE",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "MORAN",
+      "trus": "NT",
+      "invoice": "C121",
+      "gpdate": "25/05",
+      "subQuality": "BP",
+      "chests": "20",
+      "nett": "22.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "lotno": "ATB0160"
+    },
+    {
+      "uniqueid": "4311726",
+      "hist2_Auc_L3S": [
+        "SL~24-B-183 "
+      ],
+      "batchSrNo": "14",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "MOHOKUTIE",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "MORAN",
+      "trus": "NT",
+      "invoice": "C126",
+      "gpdate": "25/05",
+      "subQuality": "BP",
+      "chests": "20",
+      "nett": "22.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311726",
+          "platformno": "WBH/3",
+          "color": "72",
+          "taste": "70",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "2",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0161"
+    },
+    {
+      "uniqueid": "4311728",
+      "hist2_Auc_L3S": [
+        "SL~24-B-183 "
+      ],
+      "hist3_eCat": [
+        "SL~24~ 160-221 "
+      ],
+      "batchSrNo": "15",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "MOHOKUTIE",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "MORAN",
+      "trus": "NT",
+      "invoice": "C63",
+      "gpdate": "25/05",
+      "subQuality": "BP/SM",
+      "chests": "10",
+      "nett": "24.000",
+      "grade": "BP",
+      "lotno": "ATB0162"
+    },
+    {
+      "uniqueid": "4311731",
+      "hist2_Auc_L3S": [
+        "SL~24-B-183 "
+      ],
+      "hist3_eCat": [
+        "SL~24~ 160-221 "
+      ],
+      "batchSrNo": "16",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "MOHOKUTIE",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "MORAN",
+      "trus": "NT",
+      "invoice": "C125",
+      "gpdate": "25/05",
+      "subQuality": "BP/SM",
+      "chests": "20",
+      "nett": "24.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311731",
+          "platformno": "WBH/3",
+          "color": "70",
+          "taste": "70",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "2",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0164"
+    },
+    {
+      "uniqueid": "4311736",
+      "hist3_eCat": [
+        "SL~22~ 200-210 "
+      ],
+      "batchSrNo": "17",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "OAKLANDS",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "DOOM DOOMA",
+      "trus": "NT",
+      "invoice": "C55",
+      "gpdate": "04/05",
+      "subQuality": "BP",
+      "chests": "10",
+      "nett": "36.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 70 68 68 0 ",
+      "hist4_Oth": [
+        "CSTB: 68 68 68  WBH/7-27/04 Rem:QNA"
+      ],
+      "hist1_Auc_SameInv": [
+        "   SL~22    CTSB:  0  0  0 WBH/6-25/05 "
+      ],
+      "lotno": "ATB0179"
+    },
+    {
+      "uniqueid": "4311743",
+      "hist3_eCat": [
+        "SL~22~ 200-210 "
+      ],
+      "batchSrNo": "18",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "OAKLANDS",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "DOOM DOOMA",
+      "trus": "NT",
+      "invoice": "C65",
+      "gpdate": "04/05",
+      "subQuality": "BP",
+      "chests": "10",
+      "nett": "36.000",
+      "grade": "BOP",
+      "hist4_Oth": [
+        "CSTB: 50 50 50  WBH/3-07/05 Rem:QNA"
+      ],
+      "hist1_Auc_SameInv": [
+        "   SL~22    CTSB:  0  0  0 WBH/6-25/05 "
+      ],
+      "lotno": "ATB0180"
+    },
+    {
+      "uniqueid": "4311750",
+      "hist2_Auc_L3S": [
+        "SL~24-A-221 ",
+        "SL~24-B-183 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 200-230 ",
+        "SL~24~ 150-180 "
+      ],
+      "batchSrNo": "19",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "OAKLANDS",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "DOOM DOOMA",
+      "trus": "NT",
+      "invoice": "C71",
+      "gpdate": "27/05",
+      "subQuality": "BP/SM",
+      "chests": "10",
+      "nett": "40.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 68 0 ",
+      "lotno": "ATB0181"
+    },
+    {
+      "uniqueid": "4311754",
+      "hist2_Auc_L3S": [
+        "SL~24-A-221 ",
+        "SL~24-B-183 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 200-230 ",
+        "SL~24~ 150-180 "
+      ],
+      "batchSrNo": "20",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "OAKLANDS",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "DOOM DOOMA",
+      "trus": "NT",
+      "invoice": "C73",
+      "gpdate": "27/05",
+      "subQuality": "BP/SM",
+      "chests": "20",
+      "nett": "40.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 68 0 ",
+      "hist4_Oth": [
+        "CSTB: 50 50 50  WBH/2-18/05 Rem:QNA"
+      ],
+      "lotno": "ATB0182"
+    },
+    {
+      "uniqueid": "4311759",
+      "hist2_Auc_L3S": [
+        "SL~24-A-221 ",
+        "SL~24-B-183 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 200-230 ",
+        "SL~24~ 150-180 "
+      ],
+      "batchSrNo": "21",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "OAKLANDS",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "DOOM DOOMA",
+      "trus": "NT",
+      "invoice": "C76",
+      "gpdate": "27/05",
+      "subQuality": "BP/SM",
+      "chests": "20",
+      "nett": "27.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 68 0 ",
+      "lotno": "ATB0183"
+    },
+    {
+      "uniqueid": "4311765",
+      "hist2_Auc_L3S": [
+        "SL~24-A-221 ",
+        "SL~24-B-183 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 200-230 ",
+        "SL~24~ 150-180 "
+      ],
+      "batchSrNo": "22",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "OAKLANDS",
+      "gardenGroup": "ASSM",
+      "gardenRegion": "DOOM DOOMA",
+      "trus": "NT",
+      "invoice": "C30",
+      "gpdate": "12/04",
+      "subQuality": "BP/SM",
+      "chests": "20",
+      "nett": "40.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 68 0 ",
+      "hist1_Auc_SameInv": [
+        "   SL~22    CTSB: 70 68 68 WBH/7-25/05 "
+      ],
+      "lotno": "ATB0185"
+    },
+    {
+      "uniqueid": "4311773",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-361 ",
+        "SL~24-UA-386-396 ",
+        "SL~22-A-260-311 ",
+        "SL~23-A-356 ",
+        "SL~24-A-363-376 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 305 ",
+        "SL~23~ 350-373 ",
+        "SL~24~ 216-410 "
+      ],
+      "batchSrNo": "23",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "BORJAN",
+      "gardenGroup": "APPL",
+      "gardenRegion": "GOLAGHAT",
+      "trus": "TT",
+      "invoice": "C329",
+      "gpdate": "24/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "30",
+      "nett": "36.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311773",
+          "platformno": "WBH/3",
+          "color": "70",
+          "taste": "70",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "2",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0193"
+    },
+    {
+      "uniqueid": "4311776",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-361 ",
+        "SL~24-UA-386-396 ",
+        "SL~22-A-260-311 ",
+        "SL~23-A-356 ",
+        "SL~24-A-363-376 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 305 ",
+        "SL~23~ 350-373 ",
+        "SL~24~ 216-410 "
+      ],
+      "batchSrNo": "24",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "BORJAN",
+      "gardenGroup": "APPL",
+      "gardenRegion": "GOLAGHAT",
+      "trus": "TT",
+      "invoice": "C350",
+      "gpdate": "26/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "30",
+      "nett": "36.000",
+      "grade": "BP",
+      "lotno": "ATB0194"
+    },
+    {
+      "uniqueid": "4311778",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-352 ",
+        "SL~23-UA-331-366 ",
+        "SL~24-UA-366-381 ",
+        "SL~22-A-331-355 ",
+        "SL~23-A-326-376 ",
+        "SL~24-A-341-380 "
+      ],
+      "hist3_eCat": [
+        "SL~24~ 350 "
+      ],
+      "batchSrNo": "25",
+      "catalogGrade": "BOPSM",
+      "teaSubCatCd": "1 ",
+      "garden": "NAMROOP",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DIBRUGURH",
+      "trus": "TT",
+      "invoice": "C491",
+      "gpdate": "24/05",
+      "subQuality": "BP",
+      "chests": "20",
+      "nett": "29.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0197"
+    },
+    {
+      "uniqueid": "4311781",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-352 ",
+        "SL~23-UA-331-366 ",
+        "SL~24-UA-366-381 ",
+        "SL~22-A-331-355 ",
+        "SL~23-A-326-376 ",
+        "SL~24-A-341-380 "
+      ],
+      "hist3_eCat": [
+        "SL~24~ 350 "
+      ],
+      "batchSrNo": "26",
+      "catalogGrade": "BOPSM",
+      "teaSubCatCd": "1 ",
+      "garden": "NAMROOP",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DIBRUGURH",
+      "trus": "TT",
+      "invoice": "C504",
+      "gpdate": "24/05",
+      "subQuality": "BP",
+      "chests": "20",
+      "nett": "30.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 70 72 70 0 ",
+      "lotno": "ATB0198"
+    },
+    {
+      "uniqueid": "4311785",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-352 ",
+        "SL~23-UA-331-366 ",
+        "SL~24-UA-366-381 ",
+        "SL~22-A-331-355 ",
+        "SL~23-A-326-376 ",
+        "SL~24-A-341-380 "
+      ],
+      "hist3_eCat": [
+        "SL~24~ 350 "
+      ],
+      "batchSrNo": "27",
+      "catalogGrade": "BOPSM",
+      "teaSubCatCd": "1 ",
+      "garden": "NAMROOP",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DIBRUGURH",
+      "trus": "TT",
+      "invoice": "C518",
+      "gpdate": "26/05",
+      "subQuality": "BP",
+      "chests": "20",
+      "nett": "29.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 72 72 70 0 ",
+      "lotno": "ATB0199"
+    },
+    {
+      "uniqueid": "4311790",
+      "hist2_Auc_L3S": [
+        "SL~24-UA-331-379 ",
+        "SL~22-A-230-314 ",
+        "SL~23-A-258-366 ",
+        "SL~24-A-341-374 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 230-235 ",
+        "SL~23~ 200-348 ",
+        "SL~24~ 200-345 "
+      ],
+      "batchSrNo": "28",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "NAMROOP",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DIBRUGURH",
+      "trus": "TT",
+      "invoice": "C482",
+      "gpdate": "24/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "20",
+      "nett": "32.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "lotno": "ATB0200"
+    },
+    {
+      "uniqueid": "4311792",
+      "hist2_Auc_L3S": [
+        "SL~24-UA-331-379 ",
+        "SL~22-A-230-314 ",
+        "SL~23-A-258-366 ",
+        "SL~24-A-341-374 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 230-235 ",
+        "SL~23~ 200-348 ",
+        "SL~24~ 200-345 "
+      ],
+      "batchSrNo": "29",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "NAMROOP",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DIBRUGURH",
+      "trus": "TT",
+      "invoice": "C513",
+      "gpdate": "26/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "20",
+      "nett": "32.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "lotno": "ATB0202"
+    },
+    {
+      "uniqueid": "4311797",
+      "hist2_Auc_L3S": [
+        "SL~24-UA-331-379 ",
+        "SL~22-A-230-314 ",
+        "SL~23-A-258-366 ",
+        "SL~24-A-341-374 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 230-235 ",
+        "SL~23~ 200-348 ",
+        "SL~24~ 200-345 "
+      ],
+      "batchSrNo": "30",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "NAMROOP",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DIBRUGURH",
+      "trus": "TT",
+      "invoice": "C519",
+      "gpdate": "26/05",
+      "subQuality": "BP/SMLSML",
+      "chests": "20",
+      "nett": "33.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 72 70 70 0 ",
+      "enteredData": [
+        {
+          "tastercd": "14",
+          "lotid": "AUC",
+          "batchtype": "REG",
+          "uniqueid": "4311797",
+          "platformno": "WBH/3",
+          "color": "72",
+          "taste": "70",
+          "strength": "70",
+          "briskness": "0",
+          "roycd": "3",
+          "rejcd": "0",
+          "acceptind": "1",
+          "blendtypecd": "12",
+          "loginId": "rajesh.shah"
+        }
+      ],
+      "lotno": "ATB0203"
+    },
+    {
+      "uniqueid": "4311799",
+      "hist2_Auc_L3S": [
+        "SL~24-UA-361 ",
+        "SL~22-A-300-311 ",
+        "SL~23-A-316-365 ",
+        "SL~24-A-230-356 "
+      ],
+      "hist3_eCat": [
+        "SL~23~ 236-321 ",
+        "SL~24~ 334 "
+      ],
+      "batchSrNo": "31",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "MAJULI",
+      "gardenGroup": "APPL",
+      "gardenRegion": "DARRANG",
+      "trus": "TT",
+      "invoice": "C395",
+      "gpdate": "22/05",
+      "subQuality": "BP/SM",
+      "chests": "20",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 70 70 0 ",
+      "lotno": "ATB0209"
+    },
+    {
+      "uniqueid": "4311805",
+      "hist3_eCat": [
+        "SL~22~ 154-156 ",
+        "SL~24~ 140 "
+      ],
+      "batchSrNo": "32",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "BHERGAON",
+      "gardenGroup": "OTHR",
+      "gardenRegion": "UDALGURI",
+      "trus": "TT",
+      "invoice": "C131",
+      "gpdate": "07/05",
+      "subQuality": "BP/GBPS",
+      "chests": "10",
+      "nett": "29.000",
+      "grade": "BOP",
+      "hist1_Auc_SameInv": [
+        "   SL~22    CTSB:  0  0  0 WBH/6-25/05 "
+      ],
+      "lotno": "ATB0211"
+    },
+    {
+      "uniqueid": "4311810",
+      "hist3_eCat": [
+        "SL~22~ 154-156 ",
+        "SL~24~ 140 "
+      ],
+      "batchSrNo": "33",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "BHERGAON",
+      "gardenGroup": "OTHR",
+      "gardenRegion": "UDALGURI",
+      "trus": "TT",
+      "invoice": "C147",
+      "gpdate": "07/05",
+      "subQuality": "BP",
+      "chests": "15",
+      "nett": "28.000",
+      "grade": "BOP",
+      "hist1_Auc_SameInv": [
+        "   SL~22    CTSB:  0  0  0 WBH/6-25/05 "
+      ],
+      "lotno": "ATB0212"
+    },
+    {
+      "uniqueid": "4311813",
+      "hist2_Auc_L3S": [
+        "SL~22-A-200 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 160 ",
+        "SL~23~ 201 ",
+        "SL~24~ 150-151 "
+      ],
+      "batchSrNo": "34",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "BHERGAON",
+      "gardenGroup": "OTHR",
+      "gardenRegion": "UDALGURI",
+      "trus": "TT",
+      "invoice": "C77",
+      "gpdate": "19/04",
+      "subQuality": "BP/SM",
+      "chests": "10",
+      "nett": "32.000",
+      "grade": "BP",
+      "hist1_Auc_SameInv": [
+        "   SL~22    CTSB:  0  0  0 WBH/7-25/05 "
+      ],
+      "lotno": "ATB0213"
+    },
+    {
+      "uniqueid": "4311819",
+      "hist2_Auc_L3S": [
+        "SL~23-A-301 ",
+        "SL~24-A-270-319 "
+      ],
+      "hist3_eCat": [
+        "SL~23~ 151-246 ",
+        "SL~24~ 154 "
+      ],
+      "batchSrNo": "35",
+      "catalogGrade": "BOP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONISPECIAL",
+      "gardenGroup": "BLFA",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "NT",
+      "invoice": "C20639",
+      "gpdate": "24/05",
+      "subQuality": "BP",
+      "chests": "15",
+      "nett": "27.000",
+      "grade": "BOP",
+      "ctsb_Enterd": " 70 68 70 0 ",
+      "lotno": "ATB0223"
+    },
+    {
+      "uniqueid": "4311824",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-260 ",
+        "SL~22-A-201 ",
+        "SL~23-A-152-321 ",
+        "SL~24-A-251-280 ",
+        "SL~22-B-156 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 156-183 ",
+        "SL~23~ 154-250 ",
+        "SL~24~ 264 "
+      ],
+      "batchSrNo": "36",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONISPECIAL",
+      "gardenGroup": "BLFA",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "NT",
+      "invoice": "C20638",
+      "gpdate": "24/05",
+      "subQuality": "BP/SM",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 70 0 ",
+      "lotno": "ATB0224"
+    },
+    {
+      "uniqueid": "4311826",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-260 ",
+        "SL~22-A-201 ",
+        "SL~23-A-152-321 ",
+        "SL~24-A-251-280 ",
+        "SL~22-B-156 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 156-183 ",
+        "SL~23~ 154-250 ",
+        "SL~24~ 264 "
+      ],
+      "batchSrNo": "37",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONISPECIAL",
+      "gardenGroup": "BLFA",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "NT",
+      "invoice": "C20652",
+      "gpdate": "24/05",
+      "subQuality": "BP/SM",
+      "chests": "15",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": "70 68 70 68 ",
+      "lotno": "ATB0225"
+    },
+    {
+      "uniqueid": "4311829",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-260 ",
+        "SL~22-A-201 ",
+        "SL~23-A-152-321 ",
+        "SL~24-A-251-280 ",
+        "SL~22-B-156 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 156-183 ",
+        "SL~23~ 154-250 ",
+        "SL~24~ 264 "
+      ],
+      "batchSrNo": "38",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONISPECIAL",
+      "gardenGroup": "BLFA",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "NT",
+      "invoice": "C20673",
+      "gpdate": "26/05",
+      "subQuality": "BP/SM",
+      "chests": "8 ",
+      "nett": "29.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 68 0 ",
+      "lotno": "ATB0226"
+    },
+    {
+      "uniqueid": "4311830",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-260 ",
+        "SL~22-A-201 ",
+        "SL~23-A-152-321 ",
+        "SL~24-A-251-280 ",
+        "SL~22-B-156 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 156-183 ",
+        "SL~23~ 154-250 ",
+        "SL~24~ 264 "
+      ],
+      "batchSrNo": "39",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONISPECIAL",
+      "gardenGroup": "BLFA",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "NT",
+      "invoice": "C20689",
+      "gpdate": "29/05",
+      "subQuality": "BP/SM",
+      "chests": "11",
+      "nett": "29.000",
+      "grade": "BP",
+      "ctsb_Enterd": "70 68 70 68 ",
+      "lotno": "ATB0227"
+    },
+    {
+      "uniqueid": "4311876",
+      "hist2_Auc_L3S": [
+        "SL~22-UA-260 ",
+        "SL~22-A-201 ",
+        "SL~23-A-152-321 ",
+        "SL~24-A-251-280 ",
+        "SL~22-B-156 "
+      ],
+      "hist3_eCat": [
+        "SL~22~ 156-183 ",
+        "SL~23~ 154-250 ",
+        "SL~24~ 264 "
+      ],
+      "batchSrNo": "40",
+      "catalogGrade": "BP",
+      "teaSubCatCd": "1 ",
+      "garden": "SALKATHONISPECIAL",
+      "gardenGroup": "BLFA",
+      "gardenRegion": "CHARAIDEO",
+      "trus": "NT",
+      "invoice": "C20653",
+      "gpdate": "24/05",
+      "subQuality": "BP/SM",
+      "chests": "14",
+      "nett": "30.000",
+      "grade": "BP",
+      "ctsb_Enterd": " 70 68 70 0 ",
+      "lotno": "JTC0100"
+    }
+  ],
+  "otherTastersDetails": [
+    {
+      "uniqueid": "4311678",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "68",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "19",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311682",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "68",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "19",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311728",
+      "tastercd": "31",
+      "color": "0",
+      "taste": "0",
+      "strength": "0",
+      "briskness": "0",
+      "roycd": "0",
+      "rejcd": "5",
+      "acceptind": "0",
+      "blendtypecd": "0"
+    },
+    {
+      "uniqueid": "4311736",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "68",
+      "strength": "68",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311750",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "70",
+      "strength": "68",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311754",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "70",
+      "strength": "68",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311776",
+      "tastercd": "31",
+      "color": "0",
+      "taste": "0",
+      "strength": "0",
+      "briskness": "0",
+      "roycd": "0",
+      "rejcd": "5",
+      "acceptind": "0",
+      "blendtypecd": "0"
+    },
+    {
+      "uniqueid": "4311785",
+      "tastercd": "31",
+      "color": "72",
+      "taste": "72",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "3",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311790",
+      "tastercd": "31",
+      "color": "72",
+      "taste": "70",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "3",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311792",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "70",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311799",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "70",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "2",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311819",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "68",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "3",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    },
+    {
+      "uniqueid": "4311876",
+      "tastercd": "31",
+      "color": "70",
+      "taste": "68",
+      "strength": "70",
+      "briskness": "0",
+      "roycd": "3",
+      "rejcd": "0",
+      "acceptind": "1",
+      "blendtypecd": "12"
+    }
+  ]
+}
