@@ -1,0 +1,30 @@
+{
+  "locationCd": "WBH",
+  "batchDate": "2022-06-14T00:00:00.000Z",
+  "batchNo": "6",
+  "tasterCd": "14",
+  "priority": "3",
+  "saleType": "AUC",
+  "batchType": "REG",
+  "auctionCenterCd": "2",
+  "saleNo": "25",
+  "categoryCd": "1",
+  "loginId": "rajesh.shah",
+  "platformNo": "JMC/4",
+  "batchDetail": [
+    {
+      "uniqueId": "4310167",
+      "batchSrNo": "1",
+      "color": "68",
+      "taste": "68",
+      "strength": "68",
+      "briskness": "21",
+      "colourId": "2",
+      "remarkId": "0",
+      "acceptInd": "1",
+      "blendTypeCd": "20",
+      "editFlag": "0",
+      "entryDate": "2022-09-05T17:31:00.000Z"
+    }
+  ]
+}
