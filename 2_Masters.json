@@ -1,0 +1,1298 @@
+{
+    "masters": [
+        {
+            "userList": [
+                {
+                    "id": "320",
+                    "name": "ey3",
+                    "displayName": "Admin EY",
+                    "password": "Y21GNU1EQTNiVzl1"
+                },
+                {
+                    "id": "10",
+                    "name": "arpan.roy",
+                    "displayName": "Arpan Roy",
+                    "password": "abcd"
+                },
+                {
+                    "id": "19",
+                    "name": "bimal.doshi",
+                    "displayName": "Bimal Doshi",
+                    "password": "eA=="
+                },
+                {
+                    "id": "23",
+                    "name": "chetanj.shah",
+                    "displayName": "Chetan J Shah",
+                    "password": "Y2Vhamhobg=="
+                },
+                {
+                    "id": "37",
+                    "name": "gaurav.dave",
+                    "displayName": "Gaurav Dave",
+                    "password": "MDQwNw=="
+                },
+                {
+                    "id": "38",
+                    "name": "gaurav.shah",
+                    "displayName": "Gaurav Shah",
+                    "password": "Z2h1YXZzaA=="
+                },
+                {
+                    "id": "43",
+                    "name": "hetal.shah",
+                    "displayName": "Hetal Shah",
+                    "password": "aGV0YWw="
+                },
+                {
+                    "id": "142",
+                    "name": "jatin.patel",
+                    "displayName": "JBPatel",
+                    "password": "amJw"
+                },
+                {
+                    "id": "52",
+                    "name": "jimit.doshi",
+                    "displayName": "JPDoshi",
+                    "password": "jimit"
+                },
+                {
+                    "id": "59",
+                    "name": "ketan.shah",
+                    "displayName": "Ketan Shah",
+                    "password": "eHg="
+                },
+                {
+                    "id": "62",
+                    "name": "mahesh.nevrikar",
+                    "displayName": "MVNevrikar",
+                    "password": "bXZu"
+                },
+                {
+                    "id": "67",
+                    "name": "maulik.shelat",
+                    "displayName": "Maulik Shelat",
+                    "password": "bWF1bGlr"
+                },
+                {
+                    "id": "81",
+                    "name": "paresh.patel",
+                    "displayName": "Paresh Patel",
+                    "password": "cHRyYXNlbA=="
+                },
+                {
+                    "id": "90",
+                    "name": "pulkit.oza",
+                    "displayName": "Pulkit Oza",
+                    "password": "cGxva2F0ag=="
+                },
+                {
+                    "id": "92",
+                    "name": "rajesh.shah",
+                    "displayName": "Rajesh D Shah",
+                    "password": "xx"
+                },
+                {
+                    "id": "100",
+                    "name": "raxit.shah",
+                    "displayName": "Raxit Shah",
+                    "password": "cnNhc2hpdA=="
+                },
+                {
+                    "id": "101",
+                    "name": "sandip.shah",
+                    "displayName": "Sandip Shah",
+                    "password": "c25oYWRzcA=="
+                },
+                {
+                    "id": "103",
+                    "name": "sanjay.doshi",
+                    "displayName": "Sanjay Doshi",
+                    "password": "c2FuamF5"
+                },
+                {
+                    "id": "105",
+                    "name": "sanjay.parikh",
+                    "displayName": "Sanjay Parikh",
+                    "password": "c29w"
+                },
+                {
+                    "id": "319",
+                    "name": "ey2",
+                    "displayName": "User EY",
+                    "password": "Y21GNWJXOXVOakU1"
+                },
+                {
+                    "id": "318",
+                    "name": "ey1",
+                    "displayName": "user Ey",
+                    "password": "MTIzNCM5ODc2"
+                }
+            ]
+        },
+        {
+            "ratingList": [
+                "50",
+                "60",
+                "62",
+                "64",
+                "66",
+                "68",
+                "69",
+                "70",
+                "72",
+                "75",
+                "80",
+                "85"
+            ]
+        },
+        {
+            "locationList": [
+                {
+                    "id": "WBH",
+                    "name": "Wagh-Bakri House"
+                },
+                {
+                    "id": "JMC",
+                    "name": "JMC House"
+                },
+                {
+                    "id": "KOL",
+                    "name": "Kolkata Office"
+                }
+            ]
+        },
+        {
+            "tasterList": [
+                {
+                    "id": "14",
+                    "shortCode": "AC",
+                    "name": "ADARSH CHOPRA",
+                    "priority": "6"
+                },
+                {
+                    "id": "46",
+                    "shortCode": "AM",
+                    "name": "Abhishek Mitra",
+                    "priority": "14"
+                },
+                {
+                    "id": "48",
+                    "shortCode": "AS",
+                    "name": "Amrita Singha ",
+                    "priority": "23"
+                },
+                {
+                    "id": "11",
+                    "shortCode": "BD",
+                    "name": "BIMAL DOSHI",
+                    "priority": "25"
+                },
+                {
+                    "id": "31",
+                    "shortCode": "DS",
+                    "name": "DEVANG SHAH",
+                    "priority": "8"
+                },
+                {
+                    "id": "39",
+                    "shortCode": "DP",
+                    "name": "DHRUVA PUROHIT",
+                    "priority": "15"
+                },
+                {
+                    "id": "33",
+                    "shortCode": "DVS",
+                    "name": "DIGVIJAY SINGH",
+                    "priority": "9"
+                },
+                {
+                    "id": "24",
+                    "shortCode": "GS",
+                    "name": "GAURAV SHAH",
+                    "priority": "16"
+                },
+                {
+                    "id": "36",
+                    "shortCode": "HP",
+                    "name": "HEMANT PANJIKAR",
+                    "priority": "10"
+                },
+                {
+                    "id": "35",
+                    "shortCode": "KA",
+                    "name": "KAMAL AGARWAL",
+                    "priority": "17"
+                },
+                {
+                    "id": "43",
+                    "shortCode": "KRN",
+                    "name": "KARAN SINGH",
+                    "priority": "11"
+                },
+                {
+                    "id": "16",
+                    "shortCode": "KS",
+                    "name": "KETAN SHAH",
+                    "priority": "12"
+                },
+                {
+                    "id": "47",
+                    "shortCode": "KDS",
+                    "name": "Kapil Dev Singh",
+                    "priority": "24"
+                },
+                {
+                    "id": "42",
+                    "shortCode": "NS",
+                    "name": "NEEL SOLANKI",
+                    "priority": "18"
+                },
+                {
+                    "id": "20",
+                    "shortCode": "NT",
+                    "name": "NOT TASTED",
+                    "priority": "null"
+                },
+                {
+                    "id": "8",
+                    "shortCode": "PRD",
+                    "name": "PANKAJBHAI DESAI",
+                    "priority": "1"
+                },
+                {
+                    "id": "9",
+                    "shortCode": "PRG",
+                    "name": "PARAG DESAI",
+                    "priority": "2"
+                },
+                {
+                    "id": "4",
+                    "shortCode": "PPD",
+                    "name": "PARAS DESAI",
+                    "priority": "3"
+                },
+                {
+                    "id": "10",
+                    "shortCode": "POD",
+                    "name": "PIYUSH O DESAI",
+                    "priority": "4"
+                },
+                {
+                    "id": "18",
+                    "shortCode": "PSS",
+                    "name": "PRATIK SHAH",
+                    "priority": "19"
+                },
+                {
+                    "id": "29",
+                    "shortCode": "PRP",
+                    "name": "PRIYAM PARIKH",
+                    "priority": "5"
+                },
+                {
+                    "id": "38",
+                    "shortCode": "RB",
+                    "name": "ROHINTON BABAYCON",
+                    "priority": "7"
+                },
+                {
+                    "id": "7",
+                    "shortCode": "SDS",
+                    "name": "SANDIP SHAH",
+                    "priority": "13"
+                },
+                {
+                    "id": "45",
+                    "shortCode": "SK",
+                    "name": "SHOBHIT KHANDELWAL",
+                    "priority": "20"
+                },
+                {
+                    "id": "28",
+                    "shortCode": "UC",
+                    "name": "USHANGSU CHAKRABORTY",
+                    "priority": "21"
+                },
+                {
+                    "id": "40",
+                    "shortCode": "ZM",
+                    "name": "ZEAL MEHTA",
+                    "priority": "22"
+                }
+            ]
+        },
+        {
+            "centerList": [
+                {
+                    "id": "1",
+                    "name": "Kolkata"
+                },
+                {
+                    "id": "2",
+                    "name": "Guwahati"
+                },
+                {
+                    "id": "3",
+                    "name": "Siliguri"
+                },
+                {
+                    "id": "4",
+                    "name": "Coonoor"
+                },
+                {
+                    "id": "6",
+                    "name": "Cochin"
+                },
+                {
+                    "id": "7",
+                    "name": "Jalpaiguri"
+                },
+                {
+                    "id": "8",
+                    "name": "Coimbatore"
+                },
+                {
+                    "id": "14",
+                    "name": "Jalgaon"
+                },
+                {
+                    "id": "15",
+                    "name": "Tscoonoor"
+                },
+                {
+                    "id": "16",
+                    "name": "Munnar"
+                },
+                {
+                    "id": "19",
+                    "name": "Jorhat"
+                }
+            ]
+        },
+        {
+            "categoryList": [
+                {
+                    "id": "1",
+                    "name": "Brokens"
+                },
+                {
+                    "id": "3",
+                    "name": "Dust"
+                },
+                {
+                    "id": "2",
+                    "name": "Fannings"
+                },
+                {
+                    "id": "7",
+                    "name": "PD"
+                },
+                {
+                    "id": "8",
+                    "name": "Premix"
+                }
+            ]
+        },
+        {
+            "colourList": [
+                {
+                    "id": "2",
+                    "name": "Ornge"
+                },
+                {
+                    "id": "4",
+                    "name": "Pink"
+                },
+                {
+                    "id": "1",
+                    "name": "Red"
+                },
+                {
+                    "id": "3",
+                    "name": "Yelow"
+                }
+            ]
+        },
+        {
+            "brandList": [
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "53",
+                    "brandCd": "DL"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "255",
+                    "brandCd": "G21"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "16",
+                    "brandCd": "GM"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "17",
+                    "brandCd": "ML"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "29",
+                    "brandCd": "MSC"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "20",
+                    "brandCd": "NC"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "12",
+                    "brandCd": "WB"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "108",
+                    "brandCd": "WBG"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "191",
+                    "brandCd": "WBN"
+                },
+                {
+                    "categoryId": "1",
+                    "blendTypeCd": "51",
+                    "brandCd": "WOG"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "179",
+                    "brandCd": "GDK"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "104",
+                    "brandCd": "GEG"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "105",
+                    "brandCd": "GLM"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "85",
+                    "brandCd": "GMG"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "178",
+                    "brandCd": "GMH"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "177",
+                    "brandCd": "GMJ"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "140",
+                    "brandCd": "GMM"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "142",
+                    "brandCd": "GMT"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "103",
+                    "brandCd": "ML"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "246",
+                    "brandCd": "VWB"
+                },
+                {
+                    "categoryId": "2",
+                    "blendTypeCd": "43",
+                    "brandCd": "WB"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "68",
+                    "brandCd": "GMD"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "74",
+                    "brandCd": "GME"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "66",
+                    "brandCd": "GMP"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "47",
+                    "brandCd": "ML"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "41",
+                    "brandCd": "MSC"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "190",
+                    "brandCd": "NC"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "52",
+                    "brandCd": "TQ"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "46",
+                    "brandCd": "TQR"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "45",
+                    "brandCd": "WB"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "69",
+                    "brandCd": "WBM"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "67",
+                    "brandCd": "WBP"
+                },
+                {
+                    "categoryId": "3",
+                    "blendTypeCd": "185",
+                    "brandCd": "WGO"
+                },
+                {
+                    "categoryId": "999",
+                    "blendTypeCd": "211",
+                    "brandCd": "TWH"
+                }
+            ]
+        },
+        {
+            "remarkList": [
+                {
+                    "remarkType": "Acceptance",
+                    "id": "77",
+                    "shortCode": "BAG",
+                    "description": "BAGGY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "107",
+                    "shortCode": "BKEY",
+                    "description": "BAKEY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "7",
+                    "shortCode": "BRGT",
+                    "description": "BRIGHT"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "6",
+                    "shortCode": "BTR",
+                    "description": "BITTER"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "89",
+                    "shortCode": "CLRN",
+                    "description": "CLORINE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "92",
+                    "shortCode": "CLRY",
+                    "description": "COLOURY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "9",
+                    "shortCode": "CWC",
+                    "description": "COLD WEATHER CHAR"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "8",
+                    "shortCode": "DARK",
+                    "description": "DARK"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "84",
+                    "shortCode": "EOS",
+                    "description": "END OF SEASON"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "79",
+                    "shortCode": "FLAT",
+                    "description": "FLAT"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "76",
+                    "shortCode": "HF",
+                    "description": "HIGH FIRE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "14",
+                    "shortCode": "HRSH",
+                    "description": "HARSH"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "10",
+                    "shortCode": "JUCY",
+                    "description": "JUICY "
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "16",
+                    "shortCode": "LB",
+                    "description": "LITTLE BITTER"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "15",
+                    "shortCode": "LBK",
+                    "description": "LITTLE BAKEY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "17",
+                    "shortCode": "LD",
+                    "description": "LITTLE DARK"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "100",
+                    "shortCode": "LDHF",
+                    "description": "LITTLE DARK & HIGH FIRE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "110",
+                    "shortCode": "LDLH",
+                    "description": "LITTLE DARK & HARSH"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "108",
+                    "shortCode": "LDLR",
+                    "description": "LITTLE DARK & RAW"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "111",
+                    "shortCode": "LDLS",
+                    "description": "LITTLE DARK & SOUR"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "109",
+                    "shortCode": "LDLT",
+                    "description": "LITTLE DARK & THIN"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "18",
+                    "shortCode": "LG",
+                    "description": "LITTLE GREEN"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "19",
+                    "shortCode": "LH",
+                    "description": "LITTLE HARSH"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "101",
+                    "shortCode": "LHF",
+                    "description": "LITTLE HIGH FIRE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "20",
+                    "shortCode": "LM",
+                    "description": "LITTLE MILKY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "21",
+                    "shortCode": "LOT",
+                    "description": "LITTLE OLD TASTE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "22",
+                    "shortCode": "LP",
+                    "description": "LITTLE PINK"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "23",
+                    "shortCode": "LR",
+                    "description": "LITTLE RAW"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "24",
+                    "shortCode": "LS",
+                    "description": "LITTLE SOUR"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "25",
+                    "shortCode": "LT",
+                    "description": "LITTLE THIN"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "26",
+                    "shortCode": "MLKY",
+                    "description": "MILKY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "0",
+                    "shortCode": "NORM",
+                    "description": "NORMAL"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "93",
+                    "shortCode": "OT",
+                    "description": "OLD TASTE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "85",
+                    "shortCode": "PLAN",
+                    "description": "PLAIN"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "12",
+                    "shortCode": "PNGT",
+                    "description": "PUNGENT"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "11",
+                    "shortCode": "PREF",
+                    "description": "PREFFERED"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "94",
+                    "shortCode": "RED",
+                    "description": "RED"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "116",
+                    "shortCode": "SMKY",
+                    "description": " SMOKEY"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "13",
+                    "shortCode": "THK",
+                    "description": "THICK "
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "75",
+                    "shortCode": "TOF",
+                    "description": "TOUCH OF FIRE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "27",
+                    "shortCode": "TOS",
+                    "description": "TOUCH OF SMOKE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "102",
+                    "shortCode": "WRNG",
+                    "description": "WRONG SAMPLE"
+                },
+                {
+                    "remarkType": "Acceptance",
+                    "id": "95",
+                    "shortCode": "YEL",
+                    "description": "YELLOW"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "78",
+                    "shortCode": "BAG",
+                    "description": "BAGGY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "88",
+                    "shortCode": "BHNJ",
+                    "description": "BHANJI"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "28",
+                    "shortCode": "BKEY",
+                    "description": "BAKEY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "86",
+                    "shortCode": "BLK",
+                    "description": "BLACK"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "1",
+                    "shortCode": "BO",
+                    "description": "BAD ODOUR"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "29",
+                    "shortCode": "BRKY",
+                    "description": "BRICKEY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "30",
+                    "shortCode": "BRNT",
+                    "description": "BURNT"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "83",
+                    "shortCode": "BT",
+                    "description": "BAD TASTE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "31",
+                    "shortCode": "BTR",
+                    "description": "BITTER"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "87",
+                    "shortCode": "CLRN",
+                    "description": "CLORINE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "4",
+                    "shortCode": "COFF",
+                    "description": "COFFEFF TASTE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "32",
+                    "shortCode": "CORS",
+                    "description": "COARSE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "33",
+                    "shortCode": "DARK",
+                    "description": "DARK"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "34",
+                    "shortCode": "DRY",
+                    "description": "DRY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "35",
+                    "shortCode": "DULL",
+                    "description": "DULL"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "36",
+                    "shortCode": "EOS",
+                    "description": "END OF SEASON"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "106",
+                    "shortCode": "EQ",
+                    "description": "EXCESS QUANTITY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "37",
+                    "shortCode": "ERTH",
+                    "description": "EARTHY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "74",
+                    "shortCode": "FIRE",
+                    "description": "FIRE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "80",
+                    "shortCode": "FLAT",
+                    "description": "FLAT"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "3",
+                    "shortCode": "FR",
+                    "description": "FIBRE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "38",
+                    "shortCode": "FRTY",
+                    "description": "FROOTY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "39",
+                    "shortCode": "GREN",
+                    "description": "GREEN"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "40",
+                    "shortCode": "HARS",
+                    "description": "HARSH"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "2",
+                    "shortCode": "HF",
+                    "description": "HIGH FIRE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "41",
+                    "shortCode": "LB",
+                    "description": "LITTLE BITTER"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "42",
+                    "shortCode": "LBK",
+                    "description": "LITTLE BAKEY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "43",
+                    "shortCode": "LD",
+                    "description": "LITTLE DARK"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "114",
+                    "shortCode": "LDLH",
+                    "description": "LITTLE DARK & HARSH"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "112",
+                    "shortCode": "LDLR",
+                    "description": "LITTLE DARK & RAW"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "115",
+                    "shortCode": "LDLS",
+                    "description": "LITTLE DARK & SOUR"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "113",
+                    "shortCode": "LDLT",
+                    "description": "LITTLE DARK & THIN"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "44",
+                    "shortCode": "LG",
+                    "description": "LITTLE GREEN"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "45",
+                    "shortCode": "LH",
+                    "description": "LITTLE HARSH"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "46",
+                    "shortCode": "LM",
+                    "description": "LITTLE MILKY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "47",
+                    "shortCode": "LOT",
+                    "description": "LITTLE OLD TASTE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "48",
+                    "shortCode": "LP",
+                    "description": "LITTLE PINK"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "49",
+                    "shortCode": "LR",
+                    "description": "LITTLE RAW"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "50",
+                    "shortCode": "LS",
+                    "description": "LITTLE SOUR"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "51",
+                    "shortCode": "LT",
+                    "description": "LITTLE THIN"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "52",
+                    "shortCode": "MLKY",
+                    "description": "MILKY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "53",
+                    "shortCode": "MLTY",
+                    "description": "MAULTY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "96",
+                    "shortCode": "MOIS",
+                    "description": "MOISTURE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "54",
+                    "shortCode": "MSTY",
+                    "description": "MUSTY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "55",
+                    "shortCode": "MUDY",
+                    "description": "MUDDY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "56",
+                    "shortCode": "NJ",
+                    "description": "NOT JUICY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "57",
+                    "shortCode": "OFD",
+                    "description": "OVER FIRED"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "58",
+                    "shortCode": "OFT",
+                    "description": "OFF TASTE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "90",
+                    "shortCode": "OLD",
+                    "description": "OLD"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "59",
+                    "shortCode": "OT",
+                    "description": "OLD TASTE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "97",
+                    "shortCode": "OnHo",
+                    "description": "ON HOLD"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "60",
+                    "shortCode": "PALE",
+                    "description": "PALE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "61",
+                    "shortCode": "PINK",
+                    "description": "PINK"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "62",
+                    "shortCode": "PLAN",
+                    "description": "PLAIN"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "63",
+                    "shortCode": "PRIC",
+                    "description": "PRICE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "99",
+                    "shortCode": "PRLF",
+                    "description": "POOR LEAF"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "105",
+                    "shortCode": "QC",
+                    "description": "QUALITY CHECKING"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "5",
+                    "shortCode": "QNA",
+                    "description": "QUALITY NOT ACCEPTABLE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "64",
+                    "shortCode": "RAW",
+                    "description": "RAW"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "65",
+                    "shortCode": "RED",
+                    "description": "RED"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "98",
+                    "shortCode": "SIZE",
+                    "description": "UNEVEN SIZE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "82",
+                    "shortCode": "SLTY",
+                    "description": "SALTY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "66",
+                    "shortCode": "SMKY",
+                    "description": "SMOKEY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "67",
+                    "shortCode": "SOFT",
+                    "description": "SOFT"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "68",
+                    "shortCode": "SOUR",
+                    "description": "SOUR"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "69",
+                    "shortCode": "TAIN",
+                    "description": "TAINT"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "70",
+                    "shortCode": "THIN",
+                    "description": "THIN"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "81",
+                    "shortCode": "TOF",
+                    "description": "TOUCH OF FIRE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "71",
+                    "shortCode": "TOS",
+                    "description": "TOUCH OF SMOKE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "104",
+                    "shortCode": "TYPE",
+                    "description": "TYPE SAMPLE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "72",
+                    "shortCode": "WILD",
+                    "description": "WILD"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "103",
+                    "shortCode": "WRNG",
+                    "description": "WRONG SAMPLE"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "73",
+                    "shortCode": "WTRY",
+                    "description": "WATERY"
+                },
+                {
+                    "remarkType": "Rejecton",
+                    "id": "91",
+                    "shortCode": "YEL",
+                    "description": "YELLOW"
+                }
+            ]
+        }
+    ]
+}
